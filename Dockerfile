@@ -1,4 +1,4 @@
-# Use the official OpenJDK base image
+# syntax=docker/dockerfile:1
 FROM openjdk:17-jdk-slim
 
 WORKDIR /app
